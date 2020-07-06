@@ -1,2 +1,1 @@
-# assessor_parcels
-Los Angeles County Assessor Parcel Data 2006-2019
+# Los Angeles County Assessor Parcel Data 2006-2019
