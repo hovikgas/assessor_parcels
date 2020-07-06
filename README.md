@@ -12,6 +12,7 @@
 2. How many single-family parcels are there in the City of Los Angeles?
 > 481,650
 3. What is the average square footage for different types of parcels?
+
 | Property Type  | Square Footage |
 |:---------------|-----------:|
 | N/A            |  3609.58   |
@@ -21,8 +22,9 @@
 | Residential-Income |  5871.66   |
 | Single Family Residence |  1812.35   |
 | Vacant         |    85.82   |
-  * Does this vary by region within the city?
-      > Yes, it most certainly does. If we look at the average breakdown by just zipcode, the range is quite drastic. If we just focus on Single Family Residences, the range is still very significant. The median zipcode has an average square footage of 1719, but some zip codes have average square footages that are over 10 times as much. The average total values for single family homes in Los Angeles have grown over time, almost doubling over the past 15 years.
+
+   * Does this vary by region within the city?
+     > Yes, it most certainly does. If we look at the average breakdown by just zipcode, the range is quite drastic. If we just focus on Single Family Residences, the range is still very significant. The median zipcode has an average square footage of 1719, but some zip codes have average square footages that are over 10 times as much. The average total values for single family homes in Los Angeles have grown over time, almost doubling over the past 15 years.
 
 4.  How has housing changed over time in the City of Los Angeles?
 
